@@ -5,3 +5,5 @@ This is a program written to simulate John Conways Game of Life. It is written i
 
 link to wikipedia page:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+link to Simulation: https://josephveneziano.github.io/Conways-Game-of-Life/
